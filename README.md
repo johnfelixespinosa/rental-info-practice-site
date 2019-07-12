@@ -4,7 +4,7 @@
 
 # REQUIRMENTS
 
-- [] Users have first names and last names
+- [X] Users have first names and last names
 
 - [] Apartments have an address, a rental price, a square footage, a number of bedrooms, a number of bathrooms
 
