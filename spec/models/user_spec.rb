@@ -12,7 +12,6 @@ RSpec.describe 'User' do
   context 'with invalid data'
   it 'does not save if first and last name are invalid' do
     user = User.new(first_name: nil, last_name: "Espinosa")
-    
     user.save
 
     expect(user).not_to be_valid

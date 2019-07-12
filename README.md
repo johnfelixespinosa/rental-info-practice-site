@@ -6,6 +6,6 @@
 
 - [X] Users have first names and last names
 
-- [] Apartments have an address, a rental price, a square footage, a number of bedrooms, a number of bathrooms
+- [ ] Apartments have an address, a rental price, a square footage, a number of bedrooms, a number of bathrooms
 
-- [] Users can rent an apartment
+- [ ] Users can rent an apartment
